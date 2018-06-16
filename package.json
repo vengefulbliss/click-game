@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vengefulbliss.github.io/my-react-app",
+  "homepage": "https://vengefulbliss.github.io/click-game/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
