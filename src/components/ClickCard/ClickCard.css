@@ -1,0 +1,15 @@
+.card {
+	height: 120px;
+	background: #6caddc;
+	overflow: hidden;
+	padding: 10px;
+	text-align: center;
+}
+
+.card:hover {
+	transform: scale(1.06);
+}
+
+img {
+	width: 60%;
+}
